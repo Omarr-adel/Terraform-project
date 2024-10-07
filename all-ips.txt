@@ -1,0 +1,12 @@
+Instance Name: Proxy-EC2-2
+Public IP: 54.196.75.34
+Private IP: 10.0.0.126
+Instance Name: web-EC2-1
+Public IP: 
+Private IP: 10.0.2.80
+Instance Name: web-EC2-2
+Public IP: 
+Private IP: 10.0.2.51
+Instance Name: Proxy-EC2-1
+Public IP: 3.208.13.29
+Private IP: 10.0.0.149
